@@ -17,7 +17,7 @@ Simple responsive book gallery of New York Times best sellers data. Serves the s
 6. Webpack
 7. Node JS
 8. <a href="https://fontawesome.com/" target="_blank">FontAwesome (For icons)</a>
-9. Open Sans [Google Font](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans){:target="_blank"}
+9. Open Sans [Google Font](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)
 
 #### Contributors
 ---
