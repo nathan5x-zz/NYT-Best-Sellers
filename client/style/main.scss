@@ -1,0 +1,60 @@
+/* 
+ *   Import external resources 
+  ========================================================================== 
+ *   This includes external Fonts and Icon font.
+ *   
+ *   P.s: The order of importing resources is important 
+ *   as there are several dependencies with the /utils 
+ *   directory
+ */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Pacifico");
+
+/* JUST FOR ICONS */
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+
+/* 
+ *   Import internal resources (utils)
+  ========================================================================== 
+ *   This includes color variables, helper classes and responsive design styles
+ */
+
+@import 'utils/resets';
+@import 'utils/font-settings';
+@import 'utils/colors';
+@import 'utils/responsive';
+@import 'utils/animation';
+
+/* 
+ *   Import internal Components
+  ========================================================================== 
+ *   This includes all the components used in the app
+ */
+@import 'components/breadcrumb';
+@import 'components/books-layout';
+@import 'components/detail-layout';
+@import 'components/explore-panel';
+
+/* 
+ *   Import internal Views
+  ========================================================================== 
+ *   This includes all the Views to build the main route views
+ */
+@import 'views/page';
+@import 'views/lists-view';
+
+body {
+    font-family: "Open Sans", sans-serif;
+	background-color: $theme-bg-color;
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    min-width: 320px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.app {
+    background-color: $theme-bg-color;
+}

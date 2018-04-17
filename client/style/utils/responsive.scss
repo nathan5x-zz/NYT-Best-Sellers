@@ -1,0 +1,42 @@
+/**
+ * Media Queries
+ ========================================================================== 
+ * Basic responsive media queries. This can be achieved in different ways - 
+ * this is just one simple definitions to achieve minimal responsive 
+ * layout rendering.
+ */
+@mixin mobile-landscape() {
+  @media all and (max-width: 768px) and (orientation : landscape) {
+    @content;
+  }
+}
+
+@mixin mobile() {
+  @media only screen and (max-width: 480px) {
+    @content;
+  }
+}
+
+@mixin phablet(){
+  @media only screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin tablet() {
+  @media only screen and (max-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin laptop() {
+  @media only screen and (max-width: 1199px) {
+    @content;
+  }
+}
+
+@mixin rest(){
+  @media screen and (min-width: 1200px) {
+    @content;
+  }
+}

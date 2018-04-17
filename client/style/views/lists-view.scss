@@ -1,0 +1,96 @@
+/**
+ * Lists layout
+ ========================================================================== 
+ * This creates a Lists thumbnail tiles. Each tile is rendered 
+ * using the class 'list-tile'
+ */
+
+.thumbnail-container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin-bottom: 50px;
+	list-style: none;
+	box-sizing: border-box;
+	margin-top: 10px;
+}
+
+/**
+ * List Tile
+ ==========================================================================*/
+.list-tile {
+	background-color: $theme-white-color;
+	border-radius: $theme-tile-border;
+	width: 250px;
+	margin: 10px;	
+	box-shadow: 0px 0px 28px -8px rgba(240, 240, 240, 1);
+	transition: all 0.5s ease-out;
+	@include mobile(){		
+		width: 90%;
+	}
+
+	@include tablet(){
+		box-shadow: 0px 0px 38px -8px rgba(186, 186, 186, 1);
+		width: 300px;
+	}
+
+	&:hover {		
+		transform: translateY(-20px);
+		cursor: pointer;
+		box-shadow: 0px 0px 38px -8px rgba(186, 186, 186, 1);
+	}
+
+	.header {
+		padding: 10px;
+		display: flex;		
+		.image-slot {
+			width: 40%;
+			height: 50%;
+			border-radius: $theme-tile-border;
+		}
+		.desc-container {
+			padding: 10px 0 0 10px;
+			p {
+				margin: 0;
+				padding: 0;				
+			}
+			.updated, .books-count {
+				font-size: $font-size-medium;
+				padding-top: 10px;
+				color: $theme-secondary-dark-color;
+			}
+			.books-count {
+				margin-top: 30px;	
+			}
+		}
+	}
+
+	.footer {
+		border-top: 1px solid $theme-lighter-grey;
+		padding: 10px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		color: $theme-dark-shade;
+		font-size: $font-size-xsmall;
+		margin-top: auto;
+		
+		&:hover {
+			color: $theme-secondary-dark-color;
+			cursor: pointer;
+			.link, i {
+				color: $theme-secondary-brand-color;
+			}
+		}
+		.link {
+			text-decoration: none;
+			color: $theme-light-grey;
+			@include mobile(){
+				color: $theme-dark-grey;
+			}
+			&:hover {
+				color: $theme-secondary-brand-color;
+			}
+		}
+	}
+}

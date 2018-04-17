@@ -1,0 +1,36 @@
+/**
+ * Animation and other transitions
+ ========================================================================== 
+ * Page animation and other transition definitions.
+ *
+ */
+
+ @keyframes beats {
+    from {
+      transform: scale(0.8);
+      opacity: 1;
+    }
+
+    50% {
+        transform: scale(1);
+        opacity: 0.5;
+    }
+  
+    to {
+        transform: scale(1.4);
+        opacity: 1;
+    }
+}
+
+.app-fade-enter {
+    opacity: 0;
+}
+
+.app-fade-enter-active {
+    transition: opacity 0.5s ease-in;
+}
+
+.app-fade-leave-active {
+    transition: opacity 0.5s ease-out;    
+    opacity: 0;
+}

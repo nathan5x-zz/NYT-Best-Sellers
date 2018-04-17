@@ -1,0 +1,207 @@
+/**
+ * Detail Layout
+ ========================================================================== 
+ * This creates the Detail layout page that shows all the details of the book.
+ *
+ */
+
+.detail-layout {	
+	@include tablet() {
+		width: 100%;
+		box-shadow: none;
+	}
+	width: 80%;
+    display: flex;
+    flex-direction: column;
+    position: relative;    
+    box-shadow: 0 0 38px 0 #bababa;
+    margin: 20px auto;
+	
+	> div {
+		padding: 20px;
+		box-sizing: border-box;
+		width: 100%;
+	}
+
+	.cover {
+		width: 100%;
+		margin: 0;
+		background-color: $theme-white-color;
+		border-radius: 5px 5px 0 0;
+		&:hover {
+			.img-slot .avatar {
+				transform: scale(1.08);	
+			}			
+		}
+		
+		.promo {			
+			display: flex;			
+			@include mobile(){
+				flex-direction: column;
+			}
+			flex-direction: row;
+			.img-slot {
+				.avatar {
+					width: 100%;
+					border-radius: 5px;
+					box-shadow: 0px 14px 31px 2px rgba(219, 219, 219, 0.73);
+					transition: all 0.5s ease-out;
+				}
+			}
+
+			.details-container {				
+				padding: 20px 0 40px 20px;
+				align-self: flex-end;	
+				@include mobile(){
+					padding-left: 0;
+					padding-bottom: 10px;
+				}			
+				.rank {
+					top: 20px;
+					right: 20px;
+					width: 50px;
+					height: 60px;
+					text-align:center;
+					color: white;
+					position: absolute;
+					background: $theme-secondary-brand-color;
+					@include mobile(){
+						border: none;
+						padding: 30px 20px;
+						border-radius: 5px;
+						background: rgba(84, 84, 84, 0.5);
+						right: 30px;
+						top: 30px;
+						height: 0;
+						width: 0;
+					}
+					border-top-left-radius: 5px;
+					border-top-right-radius: 5px;
+					font-size: $font-size-xlarge;					
+					&::after {
+						@include mobile(){
+							display: none;
+						}
+						content: "";
+						position: absolute;
+						left: 0;
+						bottom: 0;
+						width: 0;
+						height: 0;
+						border-left: 25px solid transparent;
+						border-right: 25px solid transparent;
+						border-bottom: 25px solid white;
+					}					
+				}
+				h3 {
+					margin: 10px 0;
+				}
+				.desc-text {					
+					padding-top: 10px;
+					font-size: $font-size-large;
+				}
+			}
+
+			.book-name {
+				font-family: $handwritingFont;
+				text-transform: lowercase;
+				overflow-wrap: break-word;				
+				font-size: $font-size-xxlarge * 2;
+				@include tablet(){
+					line-height: $font-size-large;
+				}
+				&::first-letter {
+					text-transform: uppercase;
+				}
+			}
+		}
+	}
+
+	.desc {
+		background-color: $theme-light-shade;
+		display: flex;	
+		ul.data-list {
+			list-style: none;
+			display: flex;
+			flex-wrap: wrap;
+			margin: 0;
+			padding: 0 10px 0 0;
+			li.meta {
+				margin: 0 20px 20px 0;
+				width: 200px;
+				@include tablet() {
+					width: 20%;
+				}
+				@include phablet() {
+					width: 40%;
+				}				
+			}
+			.meta .prop {
+				text-transform: uppercase;
+				font-size: $font-size-small;
+				color: $theme-secondary-dark-color;
+				@include laptop(){
+					font-size: $font-size-large;
+				}
+				@include tablet(){
+					font-size: $font-size-medium;
+				}				
+			}
+			.meta .data {					
+				font-size: $font-size-medium;
+				font-weight: bold;					
+				@include laptop(){
+					font-size: $font-size-xlarge;
+				}
+				@include tablet(){
+					font-size: $font-size-large;
+				}				
+			}
+		}
+	}
+
+	.footer {
+		background-color: $theme-white-color;
+		border-radius: 0 0 5px 5px;
+		> span {
+			font-size: $font-size-medium;
+		}
+		.buy-options {
+			display: flex;
+			flex-wrap: wrap;
+			padding: 0;			
+			margin: 20px 0 0;
+			list-style: none;
+			justify-content: flex-start;					
+			@include tablet(){
+				margin-top: 10px;
+			}
+			li {			
+				margin: 0 20px 0 0;				
+				font-size: $font-size-medium;
+				box-shadow: 0px 0px 38px -8px rgba(186, 186, 186, 1);
+				padding: 10px 20px;
+				display: block;
+				border-radius: 15px;
+				@include tablet(){
+					margin-top: 10px;
+				}
+				&:hover {
+					background-color: $theme-secondary-brand-color;
+					color: $theme-white-color;
+					cursor: pointer;
+					a {
+						color: $theme-white-color;
+					}
+				}
+				a {
+					color: $theme-secondary-dark-color;
+					text-decoration: none;
+				}
+				i {
+					padding-right: 10px;
+				}
+			}
+		}
+	}
+}

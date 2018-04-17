@@ -1,0 +1,131 @@
+/**
+ * Breadcrumbs
+ ========================================================================== 
+ * This creates the global Breadcrumb stacked one top of 
+ * the other. 
+ *
+ * This list component is rendered using ul > li.
+ *
+ */
+
+.breadcrumb-container {
+	margin-top: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+
+/* Breadcrumb UL
+   ========================================================================== */
+ul.breadcrumb {
+	list-style: none;
+	display: flex;		
+	margin-top: 10px;
+	
+	/* Breadcrumb LI item
+       ========================================================================== */
+	> li {		
+		list-style: none;
+		padding: 5px 20px 5px 5px;
+		box-sizing: border-box;
+		background-color: $theme-white-color;
+		position: relative;	
+		display: flex;
+		align-items: center;
+		transition: width 0.5s ease;
+		box-shadow: 0px 3px 6px 0px rgba(186,186,186,1);
+
+		> i {
+			padding: 0 10px 0 20px;
+			color: $theme-secondary-dark-color;
+		}		
+		@include tablet(){
+			width: 50px;
+		}
+		
+		&:hover {
+			width: auto;
+		}
+		&:hover:not(:first-child) {
+			cursor: pointer;
+		}
+		span {
+			text-transform: uppercase;
+			font-size: $font-size-small;		
+			color: $theme-secondary-dark-color;
+        }
+        
+        a {
+            text-decoration: none;			
+			text-transform: lowercase;
+			&::first-letter{
+				text-transform: uppercase;
+			}
+			&:visited {
+				color: $theme-secondary-dark-color;
+			}
+		}
+		
+		div.item {
+			white-space: nowrap;
+			overflow: hidden;
+		}
+
+		a, p {
+			font-size: $font-size-medium;
+            font-weight: bold;
+			display: block;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+		}
+		&:first-child {			
+			border-top-left-radius: 5px;
+			border-bottom-left-radius: 5px;
+			p {
+				font-weight: 400;
+				color: $theme-secondary-dark-color;
+			}
+		}
+
+		/* Breadcrumb LI Last item to show it differently from the rest of the items
+           ========================================================================== */
+		&:last-child {
+			background-color: $theme-secondary-color;
+			color: $theme-white-color;
+			position: relative;
+			width: auto;
+            a, span, i {
+				color: $theme-white-color;
+				cursor: default;				
+            }
+			&::after {
+				content: "";
+				display: block;
+				position: absolute;
+				top: 0;
+				right: -25px;
+				width: 0;
+				height: 0;
+				border-top: 25px solid transparent;
+				border-left: 25px solid $theme-secondary-color;
+				border-bottom: 25px solid transparent;
+			}
+		}    
+		/* 
+		 * Alternate approach to show "right" arrow
+		 *
+		&:not(:last-child)::after {
+			content: "\f054";
+			font: normal normal normal 14px/1 FontAwesome;
+			display: block;
+			position: absolute;
+			color: $theme-secondary-dark-color;
+			top: 50%;
+			right: 10px;
+			width: 0;
+			height: 0;
+		}*/	
+		&:nth-last-child(2)::after {
+			content: "";
+		}
+	}
+}

@@ -1,0 +1,3498 @@
+{
+  "status": "OK",
+  "copyright":
+    "Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+  "num_results": 80,
+  "results": {
+    "bestsellers_date": "2018-03-31",
+    "published_date": "2018-04-15",
+    "published_date_description": "latest",
+    "previous_published_date": "2018-04-08",
+    "next_published_date": "",
+    "lists": [
+      {
+        "list_id": 704,
+        "list_name": "Combined Print and E-Book Fiction",
+        "list_name_encoded": "combined-print-and-e-book-fiction",
+        "display_name": "Combined Print & E-Book Fiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780698410114.jpg",
+        "list_image_width": 328,
+        "list_image_height": 495,
+        "books": []
+      },
+      {
+        "list_id": 708,
+        "list_name": "Combined Print and E-Book Nonfiction",
+        "list_name_encoded": "combined-print-and-e-book-nonfiction",
+        "display_name": "Combined Print & E-Book Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780062837875.jpg",
+        "list_image_width": 328,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/This-Me-Loving-Person-Today/dp/0062837877?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Chrissy Metz",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062837875.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Chrissy Metz",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:09",
+            "description":
+              "A star of “This Is Us” describes her journey toward self-acceptance.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062837877",
+            "primary_isbn13": "9780062837875",
+            "publisher": "Dey St.",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THIS IS ME",
+            "updated_date": "2018-04-04 23:01:09",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/This-Me-Loving-Person-Today/dp/0062837877?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062837875?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062837875"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Stephen Hawking",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780553380163.jpg",
+            "book_image_width": 325,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/1988/05/04/books/books-of-the-times-making-the-big-bang-almost-understandable.html",
+            "contributor": "by Stephen Hawking",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:09",
+            "description":
+              "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0553380168",
+            "primary_isbn13": "9780553380163",
+            "publisher": "Bantam",
+            "rank": 2,
+            "rank_last_week": 6,
+            "sunday_review_link": "",
+            "title": "A BRIEF HISTORY OF TIME",
+            "updated_date": "2018-04-04 23:01:09",
+            "weeks_on_list": 6,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780553380163?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780553380163"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Russian-Roulette-Inside-America-Election/dp/1538728753?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Michael Isikoff and David Corn",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781538728758.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/2018/03/14/books/review/russian-roulette-michael-isikoff-david-corn.html",
+            "contributor": "by Michael Isikoff and David Corn",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:09",
+            "description":
+              "Details of the 2016 presidential election, with an emphasis on Russia's possible involvement.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1538728753",
+            "primary_isbn13": "9781538728758",
+            "publisher": "Twelve",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "RUSSIAN ROULETTE",
+            "updated_date": "2018-04-04 23:01:09",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Russian-Roulette-Inside-America-Election/dp/1538728753?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781538728758?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538728758"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jennifer Palmieri",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781538713457.jpg",
+            "book_image_width": 330,
+            "book_image_height": 467,
+            "book_review_link": "",
+            "contributor": "by Jennifer Palmieri",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:09",
+            "description":
+              "The director of communications for Hillary Clinton’s 2016 presidential campaign and the Obama White House prescribes a new model of leadership.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1538713454",
+            "primary_isbn13": "9781538713457",
+            "publisher": "Grand Central",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "DEAR MADAM PRESIDENT",
+            "updated_date": "2018-04-04 23:01:09",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781538713457?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538713457"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Tiger-Woods-Jeff-Benedict/dp/1501126423?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jeff Benedict and Armen Keteyian",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781501126420.jpg",
+            "book_image_width": 330,
+            "book_image_height": 361,
+            "book_review_link": "",
+            "contributor": "by Jeff Benedict and Armen Keteyian",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:09",
+            "description":
+              "A deeper look at the personal and professional triumphs and disasters of the champion golfer.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501126423",
+            "primary_isbn13": "9781501126420",
+            "publisher": "Simon & Schuster",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "TIGER WOODS",
+            "updated_date": "2018-04-04 23:01:09",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Tiger-Woods-Jeff-Benedict/dp/1501126423?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501126420?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501126420"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 1,
+        "list_name": "Hardcover Fiction",
+        "list_name_encoded": "hardcover-fiction",
+        "display_name": "Hardcover Fiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780698410114.jpg",
+        "list_image_width": 328,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Disappeared-Joe-Pickett-Novel-ebook/dp/B0738KV63H?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "CJ Box",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780698410114.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by C.J. Box",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:03",
+            "description":
+              "A Wyoming game warden teams up with his daughter to find a missing British businesswoman.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0399176624",
+            "primary_isbn13": "9780399176623",
+            "publisher": "Putnam",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE DISAPPEARED",
+            "updated_date": "2018-04-04 23:01:03",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Disappeared-Joe-Pickett-Novel-ebook/dp/B0738KV63H?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780399176623?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399176623"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Red-Alert-NYPD-Mystery-ebook/dp/B01GQIY9JW?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "James Patterson and Marshall Karp",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780316395588.jpg",
+            "book_image_width": 319,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by James Patterson and Marshall Karp",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:03",
+            "description":
+              "The fifth book in the NYPD Red series. Detectives Zach Jordan and Kylie MacDonald investigate the death of a documentary filmmaker and an explosion at a charity benefit.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0316395447",
+            "primary_isbn13": "9780316395441",
+            "publisher": "Little, Brown",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "RED ALERT",
+            "updated_date": "2018-04-04 23:01:03",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Red-Alert-NYPD-Mystery-ebook/dp/B01GQIY9JW?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780316395441?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316395441"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Accidental-Heroes-Novel-Danielle-Steel-ebook/dp/B0738M9QWZ?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Danielle Steel",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781101884102.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Danielle Steel",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:03",
+            "description":
+              "Strangers pull together to avert a disaster involving two flights from New York to San Francisco.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1101884096",
+            "primary_isbn13": "9781101884096",
+            "publisher": "Delacorte",
+            "rank": 3,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "ACCIDENTAL HEROES",
+            "updated_date": "2018-04-04 23:01:03",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Accidental-Heroes-Novel-Danielle-Steel-ebook/dp/B0738M9QWZ?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781101884096?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101884096"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Great-Alone-Novel-Kristin-Hannah-ebook/dp/B06Y5WRS2C?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Kristin Hannah",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781250165619.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Kristin Hannah",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:03",
+            "description":
+              "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0312577230",
+            "primary_isbn13": "9780312577230",
+            "publisher": "St. Martin's",
+            "rank": 4,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "THE GREAT ALONE",
+            "updated_date": "2018-04-04 23:01:03",
+            "weeks_on_list": 8,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Great-Alone-Novel-Kristin-Hannah-ebook/dp/B06Y5WRS2C?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780312577230?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780312577230"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Die-but-Once-Maisie-Dobbs-ebook/dp/B0722N61XC?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jacqueline Winspear",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062436658.jpg",
+            "book_image_width": 330,
+            "book_image_height": 494,
+            "book_review_link": "",
+            "contributor": "by Jacqueline Winspear",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:03",
+            "description":
+              "In the months after Britain declared war on Germany in 1940, Maisie Dobbs investigates the disappearance of an apprentice working on a government contract.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062436635",
+            "primary_isbn13": "9780062436634",
+            "publisher": "Harper",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "TO DIE BUT ONCE",
+            "updated_date": "2018-04-04 23:01:03",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Die-but-Once-Maisie-Dobbs-ebook/dp/B0722N61XC?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062436634?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062436634"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 2,
+        "list_name": "Hardcover Nonfiction",
+        "list_name_encoded": "hardcover-nonfiction",
+        "display_name": "Hardcover Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9781538728758.jpg",
+        "list_image_width": 329,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Russian-Roulette-Inside-America-Election/dp/1538728753?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Michael Isikoff and David Corn",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781538728758.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/2018/03/14/books/review/russian-roulette-michael-isikoff-david-corn.html",
+            "contributor": "by Michael Isikoff and David Corn",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "Details of the 2016 presidential election, with an emphasis on Russia's possible involvement.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1538728753",
+            "primary_isbn13": "9781538728758",
+            "publisher": "Twelve",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "RUSSIAN ROULETTE",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Russian-Roulette-Inside-America-Election/dp/1538728753?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781538728758?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538728758"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/This-Me-Loving-Person-Today/dp/0062837877?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Chrissy Metz",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062837875.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Chrissy Metz",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "A star of “This Is Us” describes her journey toward self-acceptance.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062837877",
+            "primary_isbn13": "9780062837875",
+            "publisher": "Dey St.",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THIS IS ME",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/This-Me-Loving-Person-Today/dp/0062837877?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062837875?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062837875"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Secret-Empires-American-Political-Corruption/dp/0062569368?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Peter Schweizer",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062569363.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Peter Schweizer",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "The author of “Clinton Cash” describes what some politicians might do to enrich themselves while in office.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062569368",
+            "primary_isbn13": "9780062569363",
+            "publisher": "Harper",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "SECRET EMPIRES",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Secret-Empires-American-Political-Corruption/dp/0062569368?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062569363?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062569363"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jennifer Palmieri",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781538713457.jpg",
+            "book_image_width": 330,
+            "book_image_height": 467,
+            "book_review_link": "",
+            "contributor": "by Jennifer Palmieri",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "The director of communications for Hillary Clinton’s 2016 presidential campaign and the Obama White House prescribes a new model of leadership.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1538713454",
+            "primary_isbn13": "9781538713457",
+            "publisher": "Grand Central",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "DEAR MADAM PRESIDENT",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781538713457?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538713457"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Tiger-Woods-Jeff-Benedict/dp/1501126423?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jeff Benedict and Armen Keteyian",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781501126420.jpg",
+            "book_image_width": 330,
+            "book_image_height": 361,
+            "book_review_link": "",
+            "contributor": "by Jeff Benedict and Armen Keteyian",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "A deeper look at the personal and professional triumphs and disasters of the champion golfer.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501126423",
+            "primary_isbn13": "9781501126420",
+            "publisher": "Simon & Schuster",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "TIGER WOODS",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Tiger-Woods-Jeff-Benedict/dp/1501126423?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501126420?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501126420"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 17,
+        "list_name": "Trade Fiction Paperback",
+        "list_name_encoded": "trade-fiction-paperback",
+        "display_name": "Paperback Trade Fiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780307887443.jpg",
+        "list_image_width": 317,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ernest Cline",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780307887443.jpg",
+            "book_image_width": 317,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/2011/08/15/books/ready-player-one-by-ernest-cline-review.html",
+            "contributor": "by Ernest Cline",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "It’s 2044, life on a resource-depleted Earth is grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0307887448",
+            "primary_isbn13": "9780307887443",
+            "publisher": "Broadway",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "READY PLAYER ONE",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 52,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780307887443?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780307887443"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Milk-Honey-Rupi-Kaur/dp/144947425X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Rupi Kaur",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781449474256.jpg",
+            "book_image_width": 319,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Rupi Kaur",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "A collection of poetry about love, loss, trauma and healing.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "144947425X",
+            "primary_isbn13": "9781449474256",
+            "publisher": "Andrews McMeel",
+            "rank": 2,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "MILK AND HONEY",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 103,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Milk-Honey-Rupi-Kaur/dp/144947425X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781449474256?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781449474256"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Sun-Her-Flowers-Rupi-Kaur/dp/1449486797?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Rupi Kaur",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781449486792.jpg",
+            "book_image_width": 319,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/2017/12/15/books/review/rupi-kaur-instapoets.html",
+            "contributor": "by Rupi Kaur",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "A second collection of poetry from the author of \"Milk and Honey.\"",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1449486797",
+            "primary_isbn13": "9781449486792",
+            "publisher": "Andrews McMeel",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "THE SUN AND HER FLOWERS",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 26,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Sun-Her-Flowers-Rupi-Kaur/dp/1449486797?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781449486792?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781449486792"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Lying-Game-Novel-Ruth-Ware/dp/1501156004?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ruth Ware",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781501156007.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Ruth Ware",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "Four friends, who had been expelled during their final year of school following the mysterious death of their art teacher, come together as their long-held secret threatens to emerge.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501156209",
+            "primary_isbn13": "9781501156205",
+            "publisher": "Gallery/Scout",
+            "rank": 4,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "THE LYING GAME",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Lying-Game-Novel-Ruth-Ware/dp/1501156004?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501156205?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501156205"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Game-Will-Robie-David-Baldacci-ebook/dp/B06WGTZXG7?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "David Baldacci",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781455586639.jpg",
+            "book_image_width": 323,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by David Baldacci",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "Jessica Reel and Will Robie fight a dangerous adversary in Colorado.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1455586625",
+            "primary_isbn13": "9781455586622",
+            "publisher": "Grand Central",
+            "rank": 5,
+            "rank_last_week": 8,
+            "sunday_review_link": "",
+            "title": "END GAME",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Game-Will-Robie-David-Baldacci-ebook/dp/B06WGTZXG7?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781455586622?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781455586622"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 4,
+        "list_name": "Paperback Nonfiction",
+        "list_name_encoded": "paperback-nonfiction",
+        "display_name": "Paperback Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780553380163.jpg",
+        "list_image_width": 325,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Stephen Hawking",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780553380163.jpg",
+            "book_image_width": 325,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/1988/05/04/books/books-of-the-times-making-the-big-bang-almost-understandable.html",
+            "contributor": "by Stephen Hawking",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:08",
+            "description":
+              "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0553380168",
+            "primary_isbn13": "9780553380163",
+            "publisher": "Bantam",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "A BRIEF HISTORY OF TIME",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 16,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780553380163?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780553380163"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Timothy Snyder",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780804190114.jpg",
+            "book_image_width": 330,
+            "book_image_height": 465,
+            "book_review_link": "",
+            "contributor": "by Timothy Snyder",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:08",
+            "description":
+              "Twenty lessons from the 20th century about the course of tyranny.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0804190119",
+            "primary_isbn13": "9780804190114",
+            "publisher": "Tim Duggan",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "ON TYRANNY",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 47,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780804190114?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780804190114"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Horse-Soldiers-Extraordinary-Victory-Afghanistan/dp/1416580514?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Doug Stanton",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781416580522.jpg",
+            "book_image_width": 182,
+            "book_image_height": 280,
+            "book_review_link": "",
+            "contributor": "by Doug Stanton",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:08",
+            "description":
+              "Special Forces soldiers fought the Taliban on horseback shortly after 9/11. The basis of the movie \"12 Strong.\"",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501178512",
+            "primary_isbn13": "9781501178511",
+            "publisher": "Scribner",
+            "rank": 3,
+            "rank_last_week": 3,
+            "sunday_review_link":
+              "https://www.nytimes.com/2009/05/17/books/review/Barcott-t.html",
+            "title": "12 STRONG",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 16,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Horse-Soldiers-Extraordinary-Victory-Afghanistan/dp/1416580514?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501178511?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501178511"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Atul Gawande",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+            "contributor": "by Atul Gawande",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:08",
+            "description":
+              "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1250076226",
+            "primary_isbn13": "9781250076229",
+            "publisher": "Picador",
+            "rank": 4,
+            "rank_last_week": 2,
+            "sunday_review_link":
+              "https://www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+            "title": "BEING MORTAL",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 30,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781250076229?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250076229"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Daniel Kahneman",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781429969352.jpg",
+            "book_image_width": 330,
+            "book_image_height": 490,
+            "book_review_link":
+              "https://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+            "contributor": "by Daniel Kahneman",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:08",
+            "description":
+              "When we can and cannot trust our intuitions in making business and personal decisions.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0374533555",
+            "primary_isbn13": "9780374533557",
+            "publisher": "Farrar, Straus & Giroux",
+            "rank": 5,
+            "rank_last_week": 4,
+            "sunday_review_link":
+              "https://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+            "title": "THINKING, FAST AND SLOW",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 165,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780374533557?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374533557"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 24,
+        "list_name": "Advice How-To and Miscellaneous",
+        "list_name_encoded": "advice-how-to-and-miscellaneous",
+        "display_name": "Advice, How-To & Miscellaneous",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780062457714.jpg",
+        "list_image_width": 330,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Mark Manson",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062457714.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Mark Manson",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:07",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062457713",
+            "primary_isbn13": "9780062457714",
+            "publisher": "HarperOne/HarperCollins",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "THE SUBTLE ART OF NOT GIVING A ----------",
+            "updated_date": "2018-04-04 23:01:07",
+            "weeks_on_list": 68,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062457714?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062457714"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/You-Are-Badass-Doubting-Greatness-ebook/dp/B00B3M3VWS?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jen Sincero",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780762447695.jpg",
+            "book_image_width": 315,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Jen Sincero",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:07",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0762447699",
+            "primary_isbn13": "9780762447695",
+            "publisher": "Running Press",
+            "rank": 2,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "YOU ARE A BADASS",
+            "updated_date": "2018-04-04 23:01:07",
+            "weeks_on_list": 116,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/You-Are-Badass-Doubting-Greatness-ebook/dp/B00B3M3VWS?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780762447695?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780762447695"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Ive-Been-Thinking-Reflections-Meditations/dp/0525522603?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Maria Shriver",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780525522607.jpg",
+            "book_image_width": 330,
+            "book_image_height": 467,
+            "book_review_link": "",
+            "contributor": "by Maria Shriver",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:07",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0525522603",
+            "primary_isbn13": "9780525522607",
+            "publisher": "Pamela Dorman/Viking",
+            "rank": 3,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "I'VE BEEN THINKING ...",
+            "updated_date": "2018-04-04 23:01:07",
+            "weeks_on_list": 5,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Ive-Been-Thinking-Reflections-Meditations/dp/0525522603?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780525522607?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525522607"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/The-Love-Languages-Secret-Lasts/dp/0802473156?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Gary Chapman",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780802473158.jpg",
+            "book_image_width": 268,
+            "book_image_height": 400,
+            "book_review_link": "",
+            "contributor": "by Gary Chapman",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:07",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "080241270X",
+            "primary_isbn13": "9780802412706",
+            "publisher": "Northfield",
+            "rank": 4,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "THE FIVE LOVE LANGUAGES",
+            "updated_date": "2018-04-04 23:01:07",
+            "weeks_on_list": 236,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/The-Love-Languages-Secret-Lasts/dp/0802473156?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780802412706?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780802412706"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/There-Yet-Loop-loop-Zigzagging/dp/1524761435?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Mari Andrew",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781524761431.jpg",
+            "book_image_width": 330,
+            "book_image_height": 426,
+            "book_review_link": "",
+            "contributor": "by Mari Andrew",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:07",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1524761435",
+            "primary_isbn13": "9781524761431",
+            "publisher": "Clarkson Potter",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "AM I THERE YET?",
+            "updated_date": "2018-04-04 23:01:07",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/There-Yet-Loop-loop-Zigzagging/dp/1524761435?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781524761431?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524761431"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 13,
+        "list_name": "Childrens Middle Grade Hardcover",
+        "list_name_encoded": "childrens-middle-grade-hardcover",
+        "display_name": "Children’s Middle Grade Hardcover",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780375899881.jpg",
+        "list_image_width": 329,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Wonder-R-J-Palacio-ebook/dp/B0051ANPZQ?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "RJ Palacio",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780375899881.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by R.J. Palacio",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:05",
+            "description": "A boy with a facial deformity starts school.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0375869026",
+            "primary_isbn13": "9780375869020",
+            "publisher": "Knopf",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link":
+              "https://www.nytimes.com/2012/04/08/books/review/wonder-by-r-j-palacio.html",
+            "title": "WONDER",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 138,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Wonder-R-J-Palacio-ebook/dp/B0051ANPZQ?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780375869020?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780375869020"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Shah-Time-Pandava-Novel-Book/dp/1368012353?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Roshani Chokshi",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781368012355.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Roshani Chokshi",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:05",
+            "description":
+              "A girl who stretches the truth must save her classmates and mother from an ancient demon who escapes from a cursed lamp.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1368012353",
+            "primary_isbn13": "9781368012355",
+            "publisher": "Rick Riordan",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "ARU SHAH AND THE END OF TIME",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Shah-Time-Pandava-Novel-Book/dp/1368012353?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781368012355?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781368012355"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Wild-Robot-Escapes-Peter-Brown/dp/0316382043?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Peter Brown",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780316382045.jpg",
+            "book_image_width": 330,
+            "book_image_height": 482,
+            "book_review_link": "",
+            "contributor": "by Peter Brown",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:05",
+            "description":
+              "In a sequel to “The Wild Robot,” Roz plots to leave the farm and reunite with her son.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0316382043",
+            "primary_isbn13": "9780316382045",
+            "publisher": "Little, Brown",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "THE WILD ROBOT ESCAPES",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Wild-Robot-Escapes-Peter-Brown/dp/0316382043?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780316382045?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316382045"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Auggie-Me-Three-Wonder-Stories/dp/1101934867?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "RJ Palacio",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781101934852.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by R.J. Palacio",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:05",
+            "description":
+              "A collection of three stories from the “Wonder” series.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1101934859",
+            "primary_isbn13": "9781101934852",
+            "publisher": "Knopf",
+            "rank": 4,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "AUGGIE & ME",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 70,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Auggie-Me-Three-Wonder-Stories/dp/1101934867?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781101934852?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101934852"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/The-Wild-Robot-Peter-Brown/dp/0316381993?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Peter Brown",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780316381994.jpg",
+            "book_image_width": 330,
+            "book_image_height": 491,
+            "book_review_link":
+              "https://www.nytimes.com/2016/04/10/books/review/the-wild-robot-by-peter-brown.html",
+            "contributor": "by Peter Brown",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:05",
+            "description":
+              "A semi-sentient automaton washes ashore, a shipwreck's sole survivor.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0316381993",
+            "primary_isbn13": "9780316381994",
+            "publisher": "Little, Brown",
+            "rank": 5,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "THE WILD ROBOT",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 20,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/The-Wild-Robot-Peter-Brown/dp/0316381993?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780316381994?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316381994"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 7,
+        "list_name": "Picture Books",
+        "list_name_encoded": "picture-books",
+        "display_name": "Children’s Picture Books",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780062198679.jpg",
+        "list_image_width": 330,
+        "list_image_height": 345,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Pete-Cat-Big-Easter-Adventure/dp/006219867X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "James Dean and Kimberly Dean",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062198679.jpg",
+            "book_image_width": 330,
+            "book_image_height": 345,
+            "book_review_link": "",
+            "contributor": "by James Dean and Kimberly Dean",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:08",
+            "description": "A certain rabbit needs Pete's help.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "006219867X",
+            "primary_isbn13": "9780062198679",
+            "publisher": "HarperFestival",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "PETE THE CAT: BIG EASTER ADVENTURE",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 10,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Pete-Cat-Big-Easter-Adventure/dp/006219867X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062198679?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062198679"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Tonight-Oliver-Presents-Marlon-Bundo/dp/145217380X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Marlon Bundo with Jill Twiss",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781452173801.jpg",
+            "book_image_width": 330,
+            "book_image_height": 323,
+            "book_review_link": "",
+            "contributor":
+              "by Marlon Bundo with Jill Twiss. Illustrated by E.G. Keller",
+            "contributor_note": "Illustrated by E.G. Keller",
+            "created_date": "2018-04-04 23:01:08",
+            "description": "A lonely bunny meets a companion.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "145217380X",
+            "primary_isbn13": "9781452173801",
+            "publisher": "Chronicle",
+            "rank": 2,
+            "rank_last_week": 6,
+            "sunday_review_link": "",
+            "title": "A DAY IN THE LIFE OF MARLON BUNDO",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Tonight-Oliver-Presents-Marlon-Bundo/dp/145217380X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781452173801?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781452173801"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Marlon-Bundos-Life-Vice-President/dp/1621577767?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Charlotte Pence",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781621577768.jpg",
+            "book_image_width": 330,
+            "book_image_height": 329,
+            "book_review_link": "",
+            "contributor": "by Charlotte Pence. Illustrated by Karen Pence",
+            "contributor_note": "Illustrated by Karen Pence",
+            "created_date": "2018-04-04 23:01:08",
+            "description":
+              "A bunny describes a day at work in the White House.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1621577767",
+            "primary_isbn13": "9781621577768",
+            "publisher": "Regnery Kids",
+            "rank": 3,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "MARLON BUNDO'S A DAY IN THE LIFE OF THE VICE PRESIDENT",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Marlon-Bundos-Life-Vice-President/dp/1621577767?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781621577768?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781621577768"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Ive-Loved-You-Since-Forever/dp/0062841742?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Hoda Kotb",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062841742.jpg",
+            "book_image_width": 330,
+            "book_image_height": 330,
+            "book_review_link": "",
+            "contributor": "by Hoda Kotb. Illustrated by Suzie Mason",
+            "contributor_note": "Illustrated by Suzie Mason",
+            "created_date": "2018-04-04 23:01:08",
+            "description": "The author celebrates her love for her daughter.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062841742",
+            "primary_isbn13": "9780062841742",
+            "publisher": "Harper",
+            "rank": 4,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "I'VE LOVED YOU SINCE FOREVER",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Ive-Loved-You-Since-Forever/dp/0062841742?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062841742?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062841742"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Dragons-Love-Tacos-Adam-Rubin/dp/0803736800?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Adam Rubin",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780803736801.jpg",
+            "book_image_width": 330,
+            "book_image_height": 330,
+            "book_review_link": "",
+            "contributor": "by Adam Rubin. Illustrated by Daniel Salmieri",
+            "contributor_note": "Illustrated by Daniel Salmieri",
+            "created_date": "2018-04-04 23:01:08",
+            "description": "What to serve your dragon-guests.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0803736800",
+            "primary_isbn13": "9780803736801",
+            "publisher": "Dial",
+            "rank": 5,
+            "rank_last_week": 9,
+            "sunday_review_link": "",
+            "title": "DRAGONS LOVE TACOS",
+            "updated_date": "2018-04-04 23:01:08",
+            "weeks_on_list": 214,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Dragons-Love-Tacos-Adam-Rubin/dp/0803736800?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780803736801?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780803736801"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 10,
+        "list_name": "Series Books",
+        "list_name_encoded": "series-books",
+        "display_name": "Children’s Series",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780545935210.jpg",
+        "list_image_width": 330,
+        "list_image_height": 488,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Dog-Man-Kitties-Creator-Underpants/dp/0545935210?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Dav Pilkey",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780545935210.jpg",
+            "book_image_width": 330,
+            "book_image_height": 488,
+            "book_review_link": "",
+            "contributor": "by Dav Pilkey",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:05",
+            "description":
+              "A dog’s head is combined with a policeman’s body to create this hybrid supercop hound.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0545935180",
+            "primary_isbn13": "9780545935180",
+            "publisher": "Scholastic",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "DOG MAN",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 31,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Dog-Man-Kitties-Creator-Underpants/dp/0545935210?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780545935180?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780545935180"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jeff Kinney",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781419711329.jpg",
+            "book_image_width": 330,
+            "book_image_height": 484,
+            "book_review_link": "",
+            "contributor": "written and illustrated by Jeff Kinney",
+            "contributor_note": "written and illustrated by Jeff Kinney",
+            "created_date": "2018-04-04 23:01:05",
+            "description": "The travails and challenges of adolescence.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1419725459",
+            "primary_isbn13": "9781419725456",
+            "publisher": "Amulet",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "DIARY OF A WIMPY KID",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 472,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781419725456?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419725456"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Harry-Potter-And-Order-Phoenix/dp/0439358078?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "JK Rowling",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780590353427.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by J.K. Rowling",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:05",
+            "description":
+              "A wizard hones his conjuring skills in the service of fighting evil.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "059035342X",
+            "primary_isbn13": "9780590353427",
+            "publisher": "Scholastic",
+            "rank": 3,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "HARRY POTTER",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 471,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Harry-Potter-And-Order-Phoenix/dp/0439358078?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780590353427?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780590353427"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Bad-Guys-Intergalactic-Gas/dp/1338189573?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Aaron Blabey",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781338189575.jpg",
+            "book_image_width": 330,
+            "book_image_height": 420,
+            "book_review_link": "",
+            "contributor": "by Aaron Blabey",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:05",
+            "description": "Tough animals in suits take on some real villains.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "133818959X",
+            "primary_isbn13": "9781338189599",
+            "publisher": "Scholastic",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE BAD GUYS",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 10,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Bad-Guys-Intergalactic-Gas/dp/1338189573?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781338189599?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338189599"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Captain-Underpants-Revolting-Radioactive-Robo-Boxers/dp/0545175364?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Dav Pilkey",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780545175340.jpg",
+            "book_image_width": 329,
+            "book_image_height": 475,
+            "book_review_link":
+              "https://www.nytimes.com/2011/06/29/books/review/childrens-books-super-diaper-baby-2-by-dav-pilkey.html",
+            "contributor": "written and illustrated by Dav Pilkey",
+            "contributor_note": "written and illustrated by Dav Pilkey",
+            "created_date": "2018-04-04 23:01:05",
+            "description": "Boys and their principal fight evil.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0545499089",
+            "primary_isbn13": "9780545499088",
+            "publisher": "Scholastic",
+            "rank": 5,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "CAPTAIN UNDERPANTS",
+            "updated_date": "2018-04-04 23:01:05",
+            "weeks_on_list": 112,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Captain-Underpants-Revolting-Radioactive-Robo-Boxers/dp/0545175364?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780545499088?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780545499088"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 14,
+        "list_name": "Young Adult Hardcover",
+        "list_name_encoded": "young-adult-hardcover",
+        "display_name": "Young Adult Hardcover",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9781250170972.jpg",
+        "list_image_width": 330,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Children-Blood-Bone-Legacy-Orisha/dp/1250170974?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Tomi Adeyemi",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781250170972.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Tomi Adeyemi",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "Zélie fights to restore magic to the land of Orïsha.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1250170974",
+            "primary_isbn13": "9781250170972",
+            "publisher": "Holt",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "CHILDREN OF BLOOD AND BONE",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Children-Blood-Bone-Legacy-Orisha/dp/1250170974?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781250170972?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250170972"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Angie Thomas",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062498533.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Angie Thomas",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "A 16-year-old girl sees a police officer kill her friend.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062498533",
+            "primary_isbn13": "9780062498533",
+            "publisher": "Balzer & Bray",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "THE HATE U GIVE",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 57,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062498533?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062498533"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555366?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "John Green",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780525555360.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by John Green",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "Aza and Daisy investigate a mystery with a reward of $100,000.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0525555366",
+            "primary_isbn13": "9780525555360",
+            "publisher": "Dutton",
+            "rank": 3,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "TURTLES ALL THE WAY DOWN",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 25,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555366?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780525555360?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525555360"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Hazel-Wood-Novel-Melissa-Albert/dp/1250147905?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Melissa Albert",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781250147905.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Melissa Albert",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "Alice must go to her deceased grandmother's estate to rescue her mother.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1250147905",
+            "primary_isbn13": "9781250147905",
+            "publisher": "Flatiron",
+            "rank": 4,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "THE HAZEL WOOD",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 9,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Hazel-Wood-Novel-Melissa-Albert/dp/1250147905?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781250147905?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250147905"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Not-If-Save-You-First/dp/1338134140?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ally Carter",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781338134148.jpg",
+            "book_image_width": 330,
+            "book_image_height": 484,
+            "book_review_link": "",
+            "contributor": "by Ally Carter",
+            "contributor_note": "",
+            "created_date": "2018-04-04 23:01:06",
+            "description":
+              "It's complicated between a Secret Service agent's daughter and the president's son.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1338134140",
+            "primary_isbn13": "9781338134148",
+            "publisher": "Scholastic",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "NOT IF I SAVE YOU FIRST",
+            "updated_date": "2018-04-04 23:01:06",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Not-If-Save-You-First/dp/1338134140?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781338134148?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338134148"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 301,
+        "list_name": "Audio Fiction",
+        "list_name_encoded": "audio-fiction",
+        "display_name": "Audio Fiction",
+        "updated": "MONTHLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780307887443.jpg",
+        "list_image_width": 317,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ernest Cline",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780307887443.jpg",
+            "book_image_width": 317,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/2011/08/15/books/ready-player-one-by-ernest-cline-review.html",
+            "contributor": "by Ernest Cline",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description":
+              "It’s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world. 15 hours, 46 minutes unabridged. Read by Wil Wheaton.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "",
+            "primary_isbn13": "9780307913159",
+            "publisher": "Random House Audio",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "READY PLAYER ONE",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780307913159?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780307913159"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Great-Alone-Novel-Kristin-Hannah-ebook/dp/B06Y5WRS2C?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Kristin Hannah",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781250165619.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Kristin Hannah",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description":
+              "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions. 15 hours, 1 minute unabridged. Read by Julia Whelan.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "",
+            "primary_isbn13": "9781427287540",
+            "publisher": "Macmillan Audio",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE GREAT ALONE",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Great-Alone-Novel-Kristin-Hannah-ebook/dp/B06Y5WRS2C?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781427287540?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781427287540"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/gp/search?index=books&tag=NYTBS-20&field-keywords=SILENT+CHILD+Sarah+A+Denzil",
+            "article_chapter_link": "",
+            "author": "Sarah A Denzil",
+            "book_image": null,
+            "book_image_width": null,
+            "book_image_height": null,
+            "book_review_link": "",
+            "contributor": "by Sarah A. Denzil",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description":
+              "Ten years after her young son drowns, Emma Price starts a new family only to be shocked by his return. 9 hours, 29 minutes unabridged. Read by Joanne Froggatt.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "",
+            "primary_isbn13": "9781603932257",
+            "publisher": "Audible Studios",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "SILENT CHILD",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/gp/search?index=books&tag=NYTBS-20&field-keywords=SILENT+CHILD+Sarah+A+Denzil"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781603932257?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781603932257"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/gp/search?index=books&tag=NYTBS-20&field-keywords=PARADOX+BOUND+Peter+Clines",
+            "article_chapter_link": "",
+            "author": "Peter Clines",
+            "book_image": null,
+            "book_image_width": null,
+            "book_image_height": null,
+            "book_review_link": "",
+            "contributor": "by Peter Clines",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description":
+              "A mysterious traveler who can move back and forth through history transports Eli Teague out of his small town in Maine. 12 hours, 30 minutes unabridged. Read by Ray Porter.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "",
+            "primary_isbn13": "9781603932219",
+            "publisher": "Audible Studios",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "PARADOX BOUND",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/gp/search?index=books&tag=NYTBS-20&field-keywords=PARADOX+BOUND+Peter+Clines"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781603932219?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781603932219"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Red-Sparrow-Novel-Jason-Matthews/dp/1476706123?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jason Matthews",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781476706122.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Jason Matthews",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description":
+              "A Russian intelligence officer trained in the art of seduction becomes entangled with a young C.I.A. officer. 17 hours, 55 minutes unabridged. Read by Jeremy Bobb.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "",
+            "primary_isbn13": "9781442361676",
+            "publisher": "Simon & Schuster Audio",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link":
+              "https://www.nytimes.com/2013/06/02/books/review/red-sparrow-by-jason-matthews.html",
+            "title": "RED SPARROW",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Red-Sparrow-Novel-Jason-Matthews/dp/1476706123?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781442361676?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781442361676"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 302,
+        "list_name": "Audio Nonfiction",
+        "list_name_encoded": "audio-nonfiction",
+        "display_name": "Audio Nonfiction",
+        "updated": "MONTHLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780062363619.jpg",
+        "list_image_width": 330,
+        "list_image_height": 494,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Hidden-Figures-American-Untold-Mathematicians-ebook/dp/B0166JFFD0?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Margot Lee Shetterly",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062363619.jpg",
+            "book_image_width": 330,
+            "book_image_height": 494,
+            "book_review_link": "",
+            "contributor": "by Margot Lee Shetterly",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:02",
+            "description":
+              "The story of the black women mathematicians at then-segregated NASA and its precursor. The basis of the Academy Award-nominated film. 10 hours, 47 minutes unabridged. Read by Robin Miles.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062472070",
+            "primary_isbn13": "9780062472076",
+            "publisher": "HarperAudio",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "HIDDEN FIGURES",
+            "updated_date": "2018-04-05 02:01:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Hidden-Figures-American-Untold-Mathematicians-ebook/dp/B0166JFFD0?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062472076?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062472076"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Stephen Hawking",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780553380163.jpg",
+            "book_image_width": 325,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/1988/05/04/books/books-of-the-times-making-the-big-bang-almost-understandable.html",
+            "contributor": "by Stephen Hawking",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:02",
+            "description":
+              "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988. 5 hours, 50 minutes unabridged. Read by Michael Jackson.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1574534467",
+            "primary_isbn13": "9781574534467",
+            "publisher": "Phoenix",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "A BRIEF HISTORY OF TIME",
+            "updated_date": "2018-04-05 02:01:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781574534467?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781574534467"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Alone-Britain-Churchill-Dunkirk-Victory/dp/1543674151?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Michael Korda",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781543674156.jpg",
+            "book_image_width": 309,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Michael Korda",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:02",
+            "description":
+              "Historical events of World War II and the personal story of the author's family leaving Europe before the Nazis's advance. 12 hours, 57 minutes unabridged. Read by John Lee.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1543674151",
+            "primary_isbn13": "9781543674156",
+            "publisher": "Audible Studios",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "ALONE",
+            "updated_date": "2018-04-05 02:01:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Alone-Britain-Churchill-Dunkirk-Victory/dp/1543674151?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781543674156?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781543674156"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Born-Crime-Stories-African-Childhood-ebook/dp/B01DHWACVY?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Trevor Noah",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780399588181.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Trevor Noah",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:02",
+            "description":
+              "A memoir about growing up in South Africa by the host of “The Daily Show,\" whose parents had an illegal (under apartheid) interracial relationship. 8 hours, 50 minutes unabridged. Read by the author.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "",
+            "primary_isbn13": "9781603932158",
+            "publisher": "Audible Studios",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "BORN A CRIME",
+            "updated_date": "2018-04-05 02:01:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Born-Crime-Stories-African-Childhood-ebook/dp/B01DHWACVY?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781603932158?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781603932158"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Last-Black-Unicorn-Tiffany-Haddish/dp/1501181823?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Tiffany Haddish",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781501181825.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Tiffany Haddish",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:02",
+            "description":
+              "The comedian recounts growing up in South Central Los Angeles and finding success after a period of homelessness. 6 hours, 29 minutes unabridged. Read by the author.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1508245517",
+            "primary_isbn13": "9781508245513",
+            "publisher": "Simon & Schuster Audio",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE LAST BLACK UNICORN",
+            "updated_date": "2018-04-05 02:01:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Last-Black-Unicorn-Tiffany-Haddish/dp/1501181823?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781508245513?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781508245513"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 532,
+        "list_name": "Business Books",
+        "list_name_encoded": "business-books",
+        "display_name": "Business",
+        "updated": "MONTHLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780425284629.jpg",
+        "list_image_width": 327,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Nassim Nicholas Taleb",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780425284629.jpg",
+            "book_image_width": 327,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Nassim Nicholas Taleb",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "042528462X",
+            "primary_isbn13": "9780425284629",
+            "publisher": "Random House",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "SKIN IN THE GAME",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780425284629?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780425284629"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ray Dalio",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781501124020.jpg",
+            "book_image_width": 330,
+            "book_image_height": 494,
+            "book_review_link": "",
+            "contributor": "by Ray Dalio",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501124021",
+            "primary_isbn13": "9781501124020",
+            "publisher": "Simon & Schuster",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "PRINCIPLES",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501124020?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501124020"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/CEO-Next-Door-Behaviors-World-Class/dp/1101906499?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Elena L Botelho",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781101906491.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Elena L. Botelho",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1101906499",
+            "primary_isbn13": "9781101906491",
+            "publisher": "Currency",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE CEO NEXT DOOR",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/CEO-Next-Door-Behaviors-World-Class/dp/1101906499?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781101906491?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101906491"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence-/dp/0062674676?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Gary Vaynerchuk",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062674678.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Gary Vaynerchuk",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:04",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062674676",
+            "primary_isbn13": "9780062674678",
+            "publisher": "HarperBusiness",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "CRUSHING IT!",
+            "updated_date": "2018-04-05 02:01:04",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence-/dp/0062674676?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062674678?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062674678"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jennifer Palmieri",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781538713457.jpg",
+            "book_image_width": 330,
+            "book_image_height": 467,
+            "book_review_link": "",
+            "contributor": "by Jennifer Palmieri",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:04",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1538713454",
+            "primary_isbn13": "9781538713457",
+            "publisher": "Grand Central",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "DEAR MADAM PRESIDENT",
+            "updated_date": "2018-04-05 02:01:04",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781538713457?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538713457"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 531,
+        "list_name": "Science",
+        "list_name_encoded": "science",
+        "display_name": "Science",
+        "updated": "MONTHLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780553380163.jpg",
+        "list_image_width": 325,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Stephen Hawking",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780553380163.jpg",
+            "book_image_width": 325,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/1988/05/04/books/books-of-the-times-making-the-big-bang-almost-understandable.html",
+            "contributor": "by Stephen Hawking",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:04",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0553380168",
+            "primary_isbn13": "9780553380163",
+            "publisher": "Bantam",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "A BRIEF HISTORY OF TIME",
+            "updated_date": "2018-04-05 02:01:04",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780553380163?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780553380163"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Steven Pinker",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780525427575.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/2018/03/02/books/review/steven-pinker-enlightenment-now.html",
+            "contributor": "by Steven Pinker",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:04",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0525427570",
+            "primary_isbn13": "9780525427575",
+            "publisher": "Viking",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "ENLIGHTENMENT NOW",
+            "updated_date": "2018-04-05 02:01:04",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780525427575?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525427575"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Neil deGrasse Tyson",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780393609394.jpg",
+            "book_image_width": 305,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Neil deGrasse Tyson",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:04",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0393609391",
+            "primary_isbn13": "9780393609394",
+            "publisher": "Norton",
+            "rank": 3,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+            "updated_date": "2018-04-05 02:01:04",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780393609394?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780393609394"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Walter Isaacson",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781501139154.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link":
+              "https://www.nytimes.com/2017/11/27/books/review/leonardo-da-vinci-biography-walter-isaacson.html",
+            "contributor": "by Walter Isaacson",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:04",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501139150",
+            "primary_isbn13": "9781501139154",
+            "publisher": "Simon & Schuster",
+            "rank": 4,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "LEONARDO DA VINCI",
+            "updated_date": "2018-04-05 02:01:04",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501139154?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501139154"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "http://www.amazon.com/Sapiens-A-Brief-History-Humankind-ebook/dp/B00ICN066A?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Yuval Noah Harari",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780062316097.jpg",
+            "book_image_width": 128,
+            "book_image_height": 192,
+            "book_review_link": "",
+            "contributor": "by Yuval Noah Harari",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:04",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062316095",
+            "primary_isbn13": "9780062316097",
+            "publisher": "Harper",
+            "rank": 5,
+            "rank_last_week": 6,
+            "sunday_review_link": "",
+            "title": "SAPIENS",
+            "updated_date": "2018-04-05 02:01:04",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "http://www.amazon.com/Sapiens-A-Brief-History-Humankind-ebook/dp/B00ICN066A?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062316097?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062316097"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 538,
+        "list_name": "Sports",
+        "list_name_encoded": "sports",
+        "display_name": "Sports and Fitness",
+        "updated": "MONTHLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780316412650.jpg",
+        "list_image_width": 319,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/All-American-Murder-Hernandez-Superstar-Murderers/dp/0316412651?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "James Patterson and Alex Abramovich with Mike Harvkey",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780316412650.jpg",
+            "book_image_width": 319,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor":
+              "by James Patterson and Alex Abramovich with Mike Harvkey",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0316412686",
+            "primary_isbn13": "9780316412681",
+            "publisher": "Little, Brown",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "ALL-AMERICAN MURDER",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/All-American-Murder-Hernandez-Superstar-Murderers/dp/0316412651?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780316412681?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316412681"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Tiger-Woods-Jeff-Benedict/dp/1501126423?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jeff Benedict and Armen Keteyian",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781501126420.jpg",
+            "book_image_width": 330,
+            "book_image_height": 361,
+            "book_review_link": "",
+            "contributor": "by Jeff Benedict and Armen Keteyian",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501126423",
+            "primary_isbn13": "9781501126420",
+            "publisher": "Simon & Schuster",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "TIGER WOODS",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Tiger-Woods-Jeff-Benedict/dp/1501126423?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501126420?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501126420"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Shaken-Discovering-Identity-Midst-Storms-ebook/dp/B01FPH0HPA?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Tim Tebow",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780735289871.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Tim Tebow",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0735289883",
+            "primary_isbn13": "9780735289888",
+            "publisher": "WaterBrook",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "SHAKEN",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Shaken-Discovering-Identity-Midst-Storms-ebook/dp/B01FPH0HPA?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780735289888?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735289888"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/TB12-Method-Lifetime-Sustained-Performance/dp/1501180738?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Tom Brady",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9781501180736.jpg",
+            "book_image_width": 330,
+            "book_image_height": 429,
+            "book_review_link": "",
+            "contributor": "by Tom Brady",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501180738",
+            "primary_isbn13": "9781501180736",
+            "publisher": "Simon & Schuster",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "TB12 METHOD",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/TB12-Method-Lifetime-Sustained-Performance/dp/1501180738?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501180736?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501180736"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url":
+              "https://www.amazon.com/Finding-Gobi-Little-Very-Heart/dp/0718098579?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Dion Leonard with with Craig Borlase",
+            "book_image":
+              "https://s1.nyt.com/du/books/images/9780718098575.jpg",
+            "book_image_width": 325,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Dion Leonard with with Craig Borlase",
+            "contributor_note": "",
+            "created_date": "2018-04-05 02:01:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0718098528",
+            "primary_isbn13": "9780718098520",
+            "publisher": "Thomas Nelson",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "FINDING GOBI",
+            "updated_date": "2018-04-05 02:01:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url":
+                  "https://www.amazon.com/Finding-Gobi-Little-Very-Heart/dp/0718098579?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780718098520?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url":
+                  "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780718098520"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

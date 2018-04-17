@@ -1,0 +1,67 @@
+/**
+ * Explore Section
+ ========================================================================== 
+ * This creates the stacked card (book images) layout in the home page.
+ * Added different widths and position properties to render appropriately
+ * in different devices.
+ *
+ */
+
+.page.home {
+    width: 100%;    
+
+    .stack {
+        position: absolute;
+        width: 50%;
+        margin: 20px;
+        margin: 0 auto;
+        top: 10%;
+        left: 20%;    
+        @include laptop(){
+            left: 25%;
+            top: 15%;            
+        }
+        @include tablet(){            
+            left: 30%;               
+        }  
+        @include mobile(){            
+            left: 45%;  
+            width: 40%;             
+        }       
+        img {                                
+            position: absolute;
+            border-radius: 10px;
+            box-shadow: 0px 0px 38px -8px rgba(186, 186, 186, 1);
+            @include mobile(){
+                width: 100%;
+            }
+        }
+    } 
+
+    a.browse-button {
+        position: absolute;
+        background: $theme-brand-color;
+        bottom: 20%;
+        left: 38%;
+        color: $theme-light-shade;
+        z-index: 200;
+        display: block;
+        padding: 20px;
+        width: 20%;
+
+        @include tablet(){
+            bottom: 12%;
+            padding: 10px;
+        }
+
+        text-align: center;
+        text-decoration: none;
+        box-shadow: 0px 0px 38px -8px rgba(186, 186, 186, 1);               
+        border-radius: 5px;
+
+        &:hover {
+            color: $theme-brand-color;
+            background: $theme-light-shade;            
+        }
+    }
+}

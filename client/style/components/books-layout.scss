@@ -1,0 +1,157 @@
+/**
+ * Books layout
+ ========================================================================== 
+ * This creates a Books thumbnail gallery tiles.
+ * Each tile is rendered using the class 'books-tile'
+ *
+ */
+
+.books {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-bottom: 50px;
+	list-style: none;
+	width: 95%;
+}
+
+/* Books tile
+   ========================================================================== */
+.books-tile {
+	background-color: $theme-white-color;
+	border-radius: $theme-tile-border;
+	width: 320px;	
+	margin: 20px 10px;
+	display: flex;
+	position: relative;
+	flex-direction: column;	
+	align-content: space-between;
+	box-shadow: 0px 0px 28px -8px rgba(240, 240, 240, 1);
+	@include mobile() {
+		width: 100%;
+		margin: 30px 0;		
+	}
+	@include tablet(){
+		box-shadow: 0px 0px 38px -8px rgba(186, 186, 186, 1);		
+	}
+	&:hover {
+		cursor: pointer;
+		box-shadow: 0px 0px 38px -8px rgba(186, 186, 186, 1);
+	}
+	
+	.shelf {
+		padding: 20px 0 0 20px;
+		display: flex;
+		justify-content: flex-start;
+		position: relative;
+		transition: all 0.5s ease-out;
+		&:hover {		
+		.image-slot {
+			transform: translateY(-20px);
+			box-shadow: 0px 0px 27px 2px rgba(186,186,186,0.89);
+		}
+		
+		.rank::before {
+			transform: rotateY(170deg);	
+		}
+	}
+		.image-slot {
+			width: 40%;
+			height: 50%;
+			border-radius: $theme-tile-border;
+			position: relative;
+			top: -40px;
+			transition: all 0.5s ease-out;
+		}
+		.rank {
+			position: absolute;
+			width: 30px;
+			height: 30px;
+			right: 10px;
+			top: -10px;			
+			&::before {
+				transition: all 0.5s ease-out;
+				font: normal normal normal 14px/1 FontAwesome;
+				content: "\f02d";
+				font-size: $font-size-xxlarge;
+				position: absolute;
+				z-index: 0;
+				color: $theme-secondary-dark-color;
+			}				
+		}
+		.detail-container {
+			padding: 10px 10px 0 20px;				
+			.publisher{
+				font-size: $font-size-medium;				
+				color: $theme-secondary-dark-color;
+				padding-top: 10px;
+				overflow: hidden;
+				white-space: nowrap;
+				text-overflow: ellipsis;
+			}
+			.author {
+				margin-top: 10px;	
+				color: $theme-secondary-dark-color;
+				font-size: $font-size-medium;
+			}
+		}
+	}
+	.desc-container {
+		border-top: 1px solid $theme-lighter-grey;
+		padding: 20px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: flex-start;
+		color: $theme-secondary-dark-color;
+		font-size: $font-size-large;			
+		
+		.more {
+			display: flex;			
+			justify-content: flex-end;
+			padding: 10px 10px 0;
+			box-sizing: border-box;
+			width: 100%;
+			a {
+				text-decoration: none;
+				color: $theme-secondary-dark-color;				
+				text-transform: uppercase;
+				font-size: $font-size-medium;
+				&:hover {
+						color: $theme-secondary-brand-color;
+				}
+				i {
+					padding-left: 10px;
+				}
+			}
+		}
+	}
+	.footer {
+		border-top: 1px solid $theme-lighter-grey;
+		padding: 15px 20px;
+		display: flex;
+		justify-content: space-between;		
+		color: $theme-secondary-dark-color;
+		font-size: $font-size-medium;		
+		position: relative;
+		bottom: 0;
+		margin-top: auto;
+		.options {
+			display: flex;
+			flex-wrap: wrap;
+		}
+		a {
+			margin:5px;
+			text-decoration: none;
+			color: $theme-white-color;
+			background-color: $theme-light-grey;	
+			border-top-left-radius: 5px;
+			border-bottom-left-radius: 5px;
+			padding: 5px;
+			&:hover {
+				color: $theme-white-color;
+				background-color: $theme-secondary-brand-color;
+			}			
+		}
+	}
+}
