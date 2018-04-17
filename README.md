@@ -4,7 +4,8 @@ Simple responsive book gallery of New York Times best sellers data. Serves the s
 
 [Explore the DEMO]()
 
-![UI Screenshot](/src/Game_Screenshot.png)
+![iPad Screenshot](/assets/iPad_Screens.png)
+![Mobile Screenshot](/assets/Mobile_Screens.png)
 
 #### Technologies Used
 ---
@@ -14,7 +15,9 @@ Simple responsive book gallery of New York Times best sellers data. Serves the s
 4. Vue JS
 5. Vue Router
 6. Webpack
-7. Node Js
+7. Node JS
+8. FontAwesome (For icons)
+9. Open Sans font (Google font) [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)
 
 #### Contributors
 ---
