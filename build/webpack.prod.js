@@ -64,7 +64,7 @@ base.plugins.push(
   })
 )
 
-// extract css in standalone css files
+/* extract css in standalone css files
 _.cssProcessors.forEach(processor => {
   let loaders
   if (processor.loader === '') {
@@ -79,7 +79,7 @@ _.cssProcessors.forEach(processor => {
       fallback: 'style-loader'
     })
   })
-})
+}) */
 
 // minimize webpack output
 base.stats = {
