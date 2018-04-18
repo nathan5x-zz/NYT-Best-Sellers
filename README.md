@@ -1,4 +1,4 @@
-#### NYT-Best-Sellers
+#### NYT Best Sellers
 ## Responsive book gallery of New York Times Best Sellers
 Simple responsive book gallery of New York Times best sellers data. Serves the simple browsing experience.
 
@@ -16,8 +16,8 @@ Simple responsive book gallery of New York Times best sellers data. Serves the s
 5. Vue Router
 6. Webpack
 7. Node JS
-8. FontAwesome (For icons)
-9. Open Sans font (Google font) [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)
+8. <a href="https://fontawesome.com/" target="_blank">FontAwesome (For icons)</a>
+9. Open Sans [Google Font](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)
 
 #### Contributors
 ---
