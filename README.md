@@ -2,7 +2,7 @@
 ## Responsive book gallery of New York Times Best Sellers
 Simple responsive book gallery of New York Times best sellers data. Serves the simple browsing experience.
 
-[Explore the DEMO]()
+[Explore the DEMO](https://nathan5x.netlify.com/)
 
 ![iPad Screenshot](/assets/iPad_Screens.png)
 ![Mobile Screenshot](/assets/Mobile_Screens.png)
